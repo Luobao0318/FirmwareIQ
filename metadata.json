@@ -1,0 +1,5 @@
+{
+  "name": "FirmwareIQ Studio",
+  "description": "An intelligent syntax and logic analyzer for STM32 embedded projects. Detects bugs, verifies HAL/LL usage, and provides AI-powered code repairs.",
+  "requestFramePermissions": []
+}
